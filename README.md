@@ -11,7 +11,15 @@ Medical image segmentation involves identifying and separating object instances 
 
 ## Citation
 ```
-
+@misc{kolahi2024msa2netmultiscaleadaptiveattentionguided,
+      title={MSA2Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation}, 
+      author={Sina Ghorbani Kolahi and Seyed Kamal Chaharsooghi and Toktam Khatibi and Afshin Bozorgpour and Reza Azad and Moein Heidari and Ilker Hacihaliloglu and Dorit Merhof},
+      year={2024},
+      eprint={2407.21640},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2407.21640}, 
+}
 ```
 
 ## How to use
