@@ -89,14 +89,14 @@ tqdm
 
 ### Synapse Dataset
 <p align="center">
-  <img width="1000" alt="Synapse images" src="https://github.com/sinagho/MSA-2Net/blob/main/images/synapse-main-results-git.png?raw=true">
-  <img style="max-width:2020px" alt="Synapse results" src="https://github.com/sinagho/MSA-2Net/blob/main/images/synapse-git.PNG?raw=true">
+  <img width="1000" alt="Synapse images" src="https://github.com/xmindflow/MSA-2Net/blob/main/images/synapse-main-results-git.png?raw=true">
+  <img style="max-width:2020px" alt="Synapse results" src="https://github.com/xmindflow/MSA-2Net/blob/main/images/synapse-git.PNG?raw=true">
 </p>
 
 ### ISIC 2018 Dataset
 <p align="center">
-  <img style="width: 300; float:left" alt="ISIC images" src="https://github.com/sinagho/MSA-2Net/blob/main/images/isic-results-git.png?raw=true">
-  <img style="width: 600px"; alt="ISIC results" src="https://github.com/sinagho/MSA-2Net/blob/main/images/isic-git.PNG?raw=true">
+  <img style="width: 300; float:left" alt="ISIC images" src="https://github.com/xmindflow/MSA-2Net/blob/main/images/isic-results-git.png?raw=true">
+  <img style="width: 600px"; alt="ISIC results" src="https://github.com/xmindflow/MSA-2Net/blob/main/images/isic-git.PNG?raw=true">
 </p>
 
 ## References
