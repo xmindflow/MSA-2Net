@@ -6,7 +6,7 @@ Medical image segmentation involves identifying and separating object instances 
 ![Proposed Model](https://github.com/xmindflow/MSA-2Net/blob/main/images/MSA2Net-git.png?raw=true)
 
 ## Updates
-
+- **`14.10.2024`** | Accepted as Oral Presentation 🎉
 - **`20.07.2024`** | Accepted in BMVC 2024! 🥳
 
 ## Citation
